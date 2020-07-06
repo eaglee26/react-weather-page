@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Go to coding
+          Go to coding and after sleep
         </p>
         <a
           className="App-link"
